@@ -33,13 +33,28 @@
 | 023 | `batches/batch_023_10_prompts.md` | 10 | 2026-09-21 |
 | 024 | `batches/batch_024_10_prompts.md` | 10 | 2026-09-21 |
 | 025 | `batches/batch_025_10_prompts.md` | 10 | 2026-09-22 |
-| 026 | `batches/batch_026_10_prompts.md` | 10 | 2026-09-22 |
+| 026 | `batches/batch_026_10_prompts.md` | 10 | 2026-09-23 |
 | 027 | `batches/batch_027_10_prompts.md` | 10 | 2026-09-23 |
 | 028 | `batches/batch_028_10_prompts.md` | 10 | 2026-09-23 |
 | 029 | `batches/batch_029_10_prompts.md` | 10 | 2026-09-24 |
 | 030 | `batches/batch_030_10_prompts.md` | 10 | 2026-09-25 |
+| 031 | `batches/batch_031_10_prompts.md` | 10 | 2026-09-26 |
+| 032 | `batches/batch_032_10_prompts.md` | 10 | 2026-09-26 |
+| 033 | `batches/batch_033_10_prompts.md` | 10 | 2026-09-27 |
+| 034 | `batches/batch_034_10_prompts.md` | 10 | 2026-09-27 |
+| 035 | `batches/batch_035_10_prompts.md` | 10 | 2026-09-28 |
+| 036 | `batches/batch_036_10_prompts.md` | 10 | 2026-09-28 |
+| 037 | `batches/batch_037_10_prompts.md` | 10 | 2026-09-29 |
+| 038 | `batches/batch_038_10_prompts.md` | 10 | 2026-09-29 |
+| 039 | `batches/batch_039_10_prompts.md` | 10 | 2026-09-30 |
+| 040 | `batches/batch_040_10_prompts.md` | 10 | 2026-09-30 |
+| 041 | `batches/batch_041_10_prompts.md` | 10 | 2026-09-30 |
+| 042 | `batches/batch_042_10_prompts.md` | 10 | 2026-09-30 |
+| 043 | `batches/batch_043_10_prompts.md` | 10 | 2026-10-01 |
+| 044 | `batches/batch_044_10_prompts.md` | 10 | 2026-10-01 |
+| 045 | `batches/batch_045_10_prompts.md` | 10 | 2026-10-02 |
 
-累计可复制完整脚本：约 320+（003 含完整 50 条；004–030 各新增 10 条热门风格）
+累计可复制完整脚本：约 470+（003 含完整 50 条；004–045 各新增 10 条热门风格）
 距 1000 目标：进行中
 
 ## 目录结构
@@ -50,4 +65,4 @@
 - `jimeng_effects_collection.md` : 初始收集
 - `demo.txt` : 原始示例
 
-更新时间：2026-09-25
+更新时间：2026-10-02

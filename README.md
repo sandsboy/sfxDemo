@@ -33,7 +33,7 @@
 | 023 | `batches/batch_023_10_prompts.md` | 10 | 2026-09-21 |
 | 024 | `batches/batch_024_10_prompts.md` | 10 | 2026-09-21 |
 | 025 | `batches/batch_025_10_prompts.md` | 10 | 2026-09-22 |
-| 026 | `batches/batch_026_10_prompts.md` | 10 | 2026-09-23 |
+| 026 | `batches/batch_026_10_prompts.md` | 10 | 2026-09-22 |
 | 027 | `batches/batch_027_10_prompts.md` | 10 | 2026-09-23 |
 | 028 | `batches/batch_028_10_prompts.md` | 10 | 2026-09-23 |
 | 029 | `batches/batch_029_10_prompts.md` | 10 | 2026-09-24 |

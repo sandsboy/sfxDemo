@@ -52,7 +52,7 @@
 | 042 | `batches/batch_042_10_prompts.md` | 10 | 2026-09-30 |
 | 043 | `batches/batch_043_10_prompts.md` | 10 | 2026-10-01 |
 | 044 | `batches/batch_044_10_prompts.md` | 10 | 2026-10-01 |
-| 045 | `batches/batch_045_10_prompts.md` | 10 | 2026-10-05 |
+| 045 | `batches/batch_045_10_prompts.md` | 10 | 2026-10-06 |
 
 累计可复制完整脚本：约 470+（003 含完整 50 条；004–045 各新增 10 条热门风格）
 距 1000 目标：进行中
@@ -65,4 +65,4 @@
 - `jimeng_effects_collection.md` : 初始收集
 - `demo.txt` : 原始示例
 
-更新时间：2026-10-05
+更新时间：2026-10-06

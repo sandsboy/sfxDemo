@@ -49,7 +49,7 @@
 | 039 | `batches/batch_039_10_prompts.md` | 10 | 2026-09-30 |
 | 040 | `batches/batch_040_10_prompts.md` | 10 | 2026-09-30 |
 | 041 | `batches/batch_041_10_prompts.md` | 10 | 2026-09-30 |
-| 042 | `batches/batch_042_10_prompts.md` | 10 | 2026-10-01 |
+| 042 | `batches/batch_042_10_prompts.md` | 10 | 2026-09-30 |
 | 043 | `batches/batch_043_10_prompts.md` | 10 | 2026-10-01 |
 | 044 | `batches/batch_044_10_prompts.md` | 10 | 2026-10-01 |
 | 045 | `batches/batch_045_10_prompts.md` | 10 | 2026-10-07 |

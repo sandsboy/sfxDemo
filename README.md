@@ -54,9 +54,14 @@
 | 044 | `batches/batch_044_10_prompts.md` | 10 | 2026-10-01 |
 | 045 | `batches/batch_045_10_prompts.md` | 10 | 2026-10-07 |
 | 046 | `batches/batch_046_10_prompts.md` | 10 | 2026-10-08 |
-| 047 | `batches/batch_047_10_prompts.md` | 10 | 2026-10-10 |
+| 047 | `batches/batch_047_10_prompts.md` | 10 | 2026-10-11 |
+| 048 | `batches/batch_048_10_prompts.md` | 10 | 2026-10-12 |
+| 049 | `batches/batch_049_10_prompts.md` | 10 | 2026-10-13 |
+| 050 | `batches/batch_050_10_prompts.md` | 10 | 2026-10-14 |
+| 051 | `batches/batch_051_10_prompts.md` | 10 | 2026-10-15 |
+| 052 | `batches/batch_052_10_prompts.md` | 10 | 2026-10-16 |
 
-累计可复制完整脚本：约 490+（003 含完整 50 条；004–047 各新增 10 条热门风格）
+累计可复制完整脚本：约 540+ （003 含完整 50 条；004–052 各新增 10 条热门风格）
 距 1000 目标：进行中
 
 ## 目录结构
@@ -67,4 +72,4 @@
 - `jimeng_effects_collection.md` : 初始收集
 - `demo.txt` : 原始示例
 
-更新时间：2026-10-10
+更新时间：2026-10-16

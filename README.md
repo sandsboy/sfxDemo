@@ -61,11 +61,27 @@
 | 051 | `batches/batch_051_10_prompts.md` | 10 | 2026-10-15 |
 | 052 | `batches/batch_052_10_prompts.md` | 10 | 2026-10-17 |
 | 053 | `batches/batch_053_10_prompts.md` | 10 | 2026-10-18 |
-| 054 | `batches/batch_054_10_prompts.md` | 10 | 2026-10-19 |
-| 076 | `batches/batch_076_10_prompts.md` | 10 | 2026-11-13 |
-| 077 | `batches/batch_077_10_prompts.md` | 10 | 2026-11-14 |
+| 054 | `batches/batch_054_10_prompts.md` | 10 | 2026-10-20 |
+| 055 | `batches/batch_055_10_prompts.md` | 10 | 2026-10-21 |
+| 056 | `batches/batch_056_10_prompts.md` | 10 | 2026-10-22 |
+| 057 | `batches/batch_057_10_prompts.md` | 10 | 2026-10-23 |
+| 058 | `batches/batch_058_10_prompts.md` | 10 | 2026-10-24 |
+| 059 | `batches/batch_059_10_prompts.md` | 10 | 2026-10-26 |
+| 060 | `batches/batch_060_10_prompts.md` | 10 | 2026-10-22 |
+| 061 | `batches/batch_061_10_prompts.md` | 10 | 2026-10-24 |
+| 062 | `batches/batch_062_10_prompts.md` | 10 | 2026-10-26 |
+| 063 | `batches/batch_063_10_prompts.md` | 10 | 2026-10-27 |
+| 064 | `batches/batch_064_10_prompts.md` | 10 | 2026-10-28 |
+| 069 | `batches/batch_069_10_prompts.md` | 10 | 2026-10-28 |
+| 070 | `batches/batch_070_10_prompts.md` | 10 | 2026-10-31 |
+| 071 | `batches/batch_071_10_prompts.md` | 10 | 2026-11-04 |
+| 072 | `batches/batch_072_10_prompts.md` | 10 | 2026-11-06 |
+| 073 | `batches/batch_073_10_prompts.md` | 10 | 2026-11-07 |
+| 074 | `batches/batch_074_10_prompts.md` | 10 | 2026-11-08 |
+| 075 | `batches/batch_075_10_prompts.md` | 10 | 2026-11-12 |
+| 076 | `batches/batch_076_10_prompts.md` | 10 | 2026-11-15 |
 
-累计可复制完整脚本：约 580+ （003 含完整 50 条；后续批次各新增 10 条热门风格）
+累计可复制完整脚本：约 730+ （003 含完整 50 条；后续批次各新增 10 条热门风格）
 距 1000 目标：进行中
 
 ## 目录结构
@@ -73,8 +89,8 @@
 - `lighting/` : 专业布光类
 - `sfx/` : 特效/故障/梦核
 - `batches/` : 按日/按批收集
-- `knowledge/` : 第三方热门参考
+- `knowledge/` : 第三方热门灵感参考
 - `jimeng_effects_collection.md` : 初始收集
 - `demo.txt` : 原始示例
 
-更新时间：2026-11-14
+更新时间：2026-11-15
